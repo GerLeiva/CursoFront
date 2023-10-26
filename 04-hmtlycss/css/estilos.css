@@ -1,0 +1,42 @@
+.azul{
+    color : blue
+}
+.verde{
+    color:green
+}
+#normal{
+    color:black
+}
+#cursiva{
+    font-style: italic;
+}
+.mayuscula{
+    text-transform: uppercase;
+}
+p{
+    color : blue
+}
+p i{
+    color : red;
+    
+
+}
+.imagen{
+    border-top: 5px solid blue;
+    border-left: 5px dashed red;
+    border-right: 5px dotted green;
+    border-bottom: 5px double black;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 80px;
+    padding-top: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    width: 250px;
+    height: 150px;
+}.imagen:hover{
+    width: 500px;
+}
+0
