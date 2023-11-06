@@ -1,0 +1,37 @@
+/* cosas que importo de la web */
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Edu+TAS+Beginner&display=swap');
+
+.cabecera li{
+    background: aqua;
+    height: 100%;
+    text-align: center;
+}
+/* reseteo de css: sacar los estilos por defecto que trae css*/
+*{
+    margin:0;
+    padding:0;
+}
+h1{
+    margin-top: 45px ;
+    margin-left: 45px;
+    font-size: 50px;
+    /* font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;     */
+    font-weight: 100; /* grosor de la fuente  */
+    font-style: oblique;
+    font-family: 'Edu TAS Beginner', cursive; /* *{  fuentes de google fonts */
+}
+
+p.material-symbols-outlined {
+    font-family:'Dancing Script',cursive; ;
+    font-size: 2em;
+    .material-symbols-outlined {
+
+}
+
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 24
+

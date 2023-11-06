@@ -38,5 +38,15 @@ p i{
     height: 150px;
 }.imagen:hover{
     width: 500px;
+    height: 500px;
 }
-0
+div{
+    background-color: blueviolet;
+    border:0px;
+    padding: auto;
+    margin: auto;
+}
+.fondopagina{
+    background-color: 
+}
+
